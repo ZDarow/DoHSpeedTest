@@ -23,7 +23,11 @@
 const topWebsites = [
     'google.com', 'youtube.com', 'facebook.com', 'instagram.com', 'chatgpt.com',
     'x.com', 'whatsapp.com', 'reddit.com', 'wikipedia.org', 'amazon.com',
-    'tiktok.com', 'pinterest.com'
+    'tiktok.com', 'pinterest.com',
+    // РФ сайты
+    'yandex.ru', 'vk.com', 'mail.ru', 'ok.ru', 'avito.ru',
+    'wildberries.ru', 'ozon.ru', 'rutube.ru', 'dzen.ru', 'gosuslugi.ru',
+    'twitch.tv', 'steam.com', 'habr.com', 'pikabu.ru', 'gov.ru'
 ];
 
 const TIMEOUT_PENALTY_MS = 5000;
